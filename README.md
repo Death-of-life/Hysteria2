@@ -13,12 +13,8 @@ lsof -i :80
 
 ### 3. Execute installation command
 ```bash
-bash <(curl -Ls https://qwq.mx/hy2)
-```
 
-```bash
-# or
-bash <(curl -Ls https://github.com/missuo/Hysteria2/raw/main/hy2.sh)
+bash <(curl -Ls https://github.com/Death-of-life/Hysteria2/raw/main/hy2.sh)
 ```
 
 ### 4. Enter the configuration information according to the prompts
